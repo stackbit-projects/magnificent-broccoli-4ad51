@@ -47,7 +47,7 @@ sections:
     type: ContentSection
     title: The Manifesto
   - colors: colors-a
-    width: wide
+    width: full
     height: short
     topGap: small
     bottomGap: small
