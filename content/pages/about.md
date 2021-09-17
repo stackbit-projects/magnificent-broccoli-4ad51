@@ -36,38 +36,6 @@ seo:
       relativeUrl: true
 layout: AdvancedLayout
 sections:
-  - variant: variant-a
-    colors: colors-a
-    elementId: lorem-ipsum
-    width: full
-    height: short
-    topGap: small
-    bottomGap: small
-    alignHoriz: center
-    alignVert: middle
-    badge: {}
-    title: The Manifesto
-    text: >
-      ## At Einst.AI, We're embracing the meta universe and consider ourselves a
-      meta-learning enterprise that is model-agnostic, in the sense that we're
-      pretty compatible with any model trained with stochastic gradient descent
-      and applicable to a variety of different learning problems, including
-      classification, regression, and reinforcement learning.
-    actions: []
-    feature:
-      idAttr: lorem-ipsum
-      action: lorem-ipsum
-      destination: lorem-ipsum
-      fields: []
-      submitLabel: lorem-ipsum
-      type: FormBlock
-    backgroundImage:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      opacity: 0
-      elementId: lorem-ipsum
-      type: ImageBlock
-    type: HeroSection
   - colors: colors-a
     width: full
     height: short
