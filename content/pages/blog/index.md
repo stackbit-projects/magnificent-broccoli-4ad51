@@ -44,7 +44,7 @@ sections:
         icon: github
         elementId: GitHub
         type: Button
-      - label: lorem-ipsum
+      - label: EinsteinDB
         url: '#'
         altText: lorem-ipsum
         style: secondary
