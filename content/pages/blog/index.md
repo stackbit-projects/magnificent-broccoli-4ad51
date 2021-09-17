@@ -64,6 +64,7 @@ sections:
       opacity: 0
       elementId: lorem-ipsum
       type: ImageBlock
+      url: /images/shutterstock_1698251776.jpeg
     type: HeroSection
   - variant: variant-b
     colors: colors-c
