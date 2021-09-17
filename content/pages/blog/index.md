@@ -17,17 +17,27 @@ sections:
     title: >-
       A fully differentiable neural network with a ‘planning module’ embedded
       within a generative transformer model for EinsteinDB
-    text: >-
-      ## Lorem ipsum
+    text: >
+      **Learning-based Database Configuration**. einst.ai aims to utilize AI
+      techniques to automate EinsteinDB and MilevaDB's database configurations,
+      including knob tuning, index advisor, materialized view advisor, SQL
+      rewriter, and database partition.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   End To End Learning: einst.ai's full-fledged optimizer not only
+      replies on cost estimation and join order, but also requires to consider
+      indexes and views.
 
 
-      - Lorem ipsum
+      *   Index advisor: without expert rules, einst.ai denotes workload
+      features as the arrival rate of queries, column features as the access
+      frequency and selectivity of each column is processed
 
-      - dolor sit amet
+
+      *   Adaptable and Self-Aware: to ensure business continuity under
+      predictable/unpredictable disasters, einst.ai backed by EinsteinDB
+      provides for the capabilities herein like fault tolerance and disaster
+      recovery.
     actions: []
     feature:
       idAttr: lorem-ipsum
