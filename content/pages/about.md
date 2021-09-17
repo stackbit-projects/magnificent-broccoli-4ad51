@@ -49,7 +49,6 @@ sections:
       pretty compatible with any model trained with stochastic gradient descent
       and applicable to a variety of different learning problems, including
       classification, regression, and reinforcement learning.
-    elementId: lorem-ipsum
     type: ContentSection
   - colors: colors-a
     width: full
