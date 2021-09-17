@@ -36,7 +36,14 @@ sections:
       predictable/unpredictable disasters, einst.ai backed by EinsteinDB
       provides for the capabilities herein like fault tolerance and disaster
       recovery.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        altText: lorem-ipsum
+        style: secondary
+        icon: arrowRight
+        elementId: lorem-ipsum
+        type: Button
     feature:
       idAttr: lorem-ipsum
       action: lorem-ipsum
