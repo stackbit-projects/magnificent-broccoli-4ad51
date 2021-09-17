@@ -39,7 +39,7 @@ sections:
     actions:
       - label: GitHub
         url: 'https://github.com/einstAI/einst.ai'
-        altText: lorem-ipsum
+        altText: GitHub
         style: secondary
         icon: github
         elementId: GitHub
