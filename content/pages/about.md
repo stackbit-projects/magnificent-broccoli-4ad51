@@ -41,7 +41,7 @@ sections:
     height: short
     topGap: small
     bottomGap: small
-    alignHoriz: right
+    alignHoriz: center
     subtitle: >-
       At Einst.AI, We're embracing the meta universe and consider ourselves a
       meta-learning enterprise that is model-agnostic, in the sense that we're
