@@ -34,7 +34,7 @@ sections:
   - colors: colors-a
     width: full
     height: short
-    topGap: small
+    topGap: none
     bottomGap: none
     alignHoriz: left
     text: >
