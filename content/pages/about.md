@@ -53,17 +53,12 @@ sections:
     bottomGap: none
     alignHoriz: left
     title: The Manifesto
-    text: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    text: >
+      ### At Einst.AI, We're embracing the meta universe and consider ourselves
+      a meta-learning enterprise that is model-agnostic, in the sense that we're
+      pretty compatible with any model trained with stochastic gradient descent
+      and applicable to a variety of different learning problems, including
+      classification, regression, and reinforcement learning.
     elementId: lorem-ipsum
     type: ContentSection
 ---
