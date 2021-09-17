@@ -16,7 +16,7 @@ sections:
     height: short
     topGap: none
     bottomGap: none
-    alignHoriz: left
+    alignHoriz: center
     title: >-
       Automatic Database Management System Tuning Through Large-scale Machine
       Learningine Learning-scale Machine Learning
