@@ -32,7 +32,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: lorem-ipsum
+      - label: get.einst.ai
         url: '#'
         altText: lorem-ipsum
         style: secondary
