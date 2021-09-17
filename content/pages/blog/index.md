@@ -38,17 +38,40 @@ sections:
     bottomGap: small
     alignHoriz: left
     badge: lorem-ipsum
-    text: >-
-      ## Lorem ipsum
+    text: >
+      Einst.ai allows EinsteinDB to learn from both internal and external
+      “environments” to achieve high performance. Our representational
+      capabilities are not limited to the possible: we are able to conceive,
+      describe, and sometimes even believe, impossibilities.
+
+      we vary the number of training queries that can be used for the
+      workload-driven baselines and compare the accuracy with zero-shot learning
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      A hallmark skill of einst.ai is its ability to rapidly adapt to new
+      circumstances and "achieve goals in a wide range of environments", where
+      raw observations directly map to values or actions.
+
+      Contextual decomposition to extract interactions from EinsteinDB
 
 
-      - Lorem ipsum
+      zero-shot query optimizers in einst.ai could come up with plans that
+      classical optimizers would not have considered while avoiding the burden
+      to run thousands of queries to train the learned optimizer for every new
+      database. Moreover, when thinking more broadly, zero-shot models seem to
+      also be an attractive model for any system builder and can be also used at
+      various levels of granularity to predict the performance of individual
+      components (e.g., very fine-grained on the data structure and algorithm
+      level) or very coarse-grained (at the system level).
 
-      - dolor sit amet
+
+      *   Communications between the two domains are possible solely via
+      cross-domain channels, an extension to native Go channels that deep-copies
+      values to prevent cross-domain pointer references.
+
+
+      *   EinstAI dynamically increases the number of knobs used in a tuning
+      session over time.
     elementId: lorem-ipsum
     type: ContentSection
 ---
