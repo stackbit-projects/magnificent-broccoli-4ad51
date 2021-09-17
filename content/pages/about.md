@@ -39,7 +39,7 @@ sections:
   - variant: variant-a
     colors: colors-a
     elementId: lorem-ipsum
-    width: wide
+    width: full
     height: short
     topGap: small
     bottomGap: small
