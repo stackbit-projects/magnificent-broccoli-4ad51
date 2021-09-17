@@ -14,7 +14,9 @@ sections:
     badge:
       label: lorem-ipsum
       elementId: lorem-ipsum
-    title: lorem-ipsum
+    title: >-
+      A fully differentiable neural network with a ‘planning module’ embedded
+      within a generative transformer model for EinsteinDB
     text: >-
       ## Lorem ipsum
 
