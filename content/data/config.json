@@ -11,7 +11,7 @@
         "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/logo.svg",
+            "url": "/images/logo-200.png",
             "altText": "Logo"
         },
         "primaryLinks": [
