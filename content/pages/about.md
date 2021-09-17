@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
-layout: page
+layout: PostLayout
 ---
 Language has evolved to communicate intent, to state objectives, or to describe complex situations. It conveys information compactly by relying on composition and highlighting salient facts with a grammar. With the advent of the Transformer, a model architecture eschewing recurrence and relying entirely on an attention mechanism to draw global dependencies between input and output.
 
