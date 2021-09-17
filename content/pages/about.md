@@ -46,7 +46,6 @@ sections:
     alignHoriz: left
     alignVert: middle
     badge:
-      label: lorem-ipsum
       elementId: lorem-ipsum
     title: The Manifesto
     text: >-
