@@ -46,7 +46,7 @@ sections:
         type: Button
       - label: EinsteinDB
         url: 'https://www.einsteindb.com/'
-        altText: lorem-ipsum
+        altText: EinsteinDB
         style: secondary
         icon: arrowRight
         elementId: lorem-ipsum
