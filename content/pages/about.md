@@ -49,7 +49,7 @@ sections:
   - colors: colors-a
     width: full
     height: short
-    topGap: small
+    topGap: none
     bottomGap: small
     alignHoriz: left
     badge: lorem-ipsum
