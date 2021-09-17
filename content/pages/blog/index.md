@@ -12,7 +12,7 @@ sections:
       - content/pages/blog/sustainability-at-its-purest.md
   - variant: variant-a
     colors: colors-a
-    width: wide
+    width: full
     height: short
     topGap: small
     bottomGap: small
