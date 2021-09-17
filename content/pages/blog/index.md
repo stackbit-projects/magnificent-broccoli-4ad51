@@ -33,7 +33,7 @@ sections:
       - dolor sit amet
     actions:
       - label: get.einst.ai
-        url: '#'
+        url: /
         altText: lorem-ipsum
         style: secondary
         icon: arrowRight
