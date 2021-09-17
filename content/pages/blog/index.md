@@ -42,7 +42,7 @@ sections:
         altText: lorem-ipsum
         style: secondary
         icon: arrowRight
-        elementId: lorem-ipsum
+        elementId: GitHub
         type: Button
     feature:
       idAttr: lorem-ipsum
