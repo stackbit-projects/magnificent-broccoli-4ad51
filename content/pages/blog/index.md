@@ -44,6 +44,13 @@ sections:
         icon: github
         elementId: GitHub
         type: Button
+      - label: lorem-ipsum
+        url: '#'
+        altText: lorem-ipsum
+        style: secondary
+        icon: arrowRight
+        elementId: lorem-ipsum
+        type: Button
     feature:
       idAttr: lorem-ipsum
       action: lorem-ipsum
