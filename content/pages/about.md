@@ -37,3 +37,5 @@ Distractions can look technically similar to domain randomization but distractio
 
 The magnitude of each distraction type can be controlled by a “difficulty magnitude” scalar between 0 and 1. Distractions can be set to either change during episodes or change only between episodes, which we will refer to as *dynamic *and *static *settings, respectively.
 
+### Transformer Models with IMAGINATION
+
