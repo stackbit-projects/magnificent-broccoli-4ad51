@@ -5,40 +5,43 @@ sections:
   - type: HeroSection
     variant: variant-a
     colors: colors-e
-    elementId: "homepage-hero-1"
-    width: "wide"
-    height: "auto"
-    alignHoriz: "left"
-    badge: 
-        label: "New Website"
-        elementId: "hero-badge-1"
-    title: "The quick, brown fox jumps over a lazy dog"
-    text: |-
-      A group of local fisherman, working to deliver sustainable fish to your table. Each fish you buy, helps support fishing regulations and laws, to help sustain a better future for our waters, our food, and our globe.
+    elementId: homepage-hero-1
+    width: full
+    height: auto
+    alignHoriz: left
+    badge:
+      label: New Website
+      elementId: hero-badge-1
+    title: 'The quick, brown fox jumps over a lazy dog'
+    text: >-
+      A group of local fisherman, working to deliver sustainable fish to your
+      table. Each fish you buy, helps support fishing regulations and laws, to
+      help sustain a better future for our waters, our food, and our globe.
     actions:
       - type: Button
         label: Get Started
-        url: https://www.stackbit.com/
-        style: "primary"
-        elementId: "hero-main-button"
+        url: 'https://www.stackbit.com/'
+        style: primary
+        elementId: hero-main-button
       - type: Button
         label: Learn More
-        url: https://www.stackbit.com/
-        style: "secondary"
+        url: 'https://www.stackbit.com/'
+        style: secondary
     feature:
       type: ImageBlock
-      url: "https://source.unsplash.com/wPJygs79jMA/640x360"
+      url: 'https://source.unsplash.com/wPJygs79jMA/640x360'
       altText: Image alt text
       caption: Image caption
   - type: TestimonialsSection
     variant: variant-a
     colors: colors-c
-    width: "wide"
-    height: "auto"
-    alignHoriz: "left"
+    width: wide
+    height: auto
+    alignHoriz: left
     testimonials:
-      - quote: |-
-          “It’s great to see someone taking action while still maintaining a sustainable fish supply to home cooks.”
+      - quote: >-
+          “It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks.”
         name: Isabelle Parks
         title: Head chef at Parks
         image:
@@ -60,12 +63,13 @@ sections:
     height: auto
     alignHoriz: center
     title: Let's do this
-    text: |-
-      The Stackbit theme is flexible and scalable to every need. It can manage any layout and any screen.
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
     actions:
       - type: Button
         label: Get Started
-        url: "https://www.stackbit.com/"
+        url: 'https://www.stackbit.com/'
         style: primary
   - type: ContentSection
     colors: colors-e
@@ -75,8 +79,13 @@ sections:
     badge: Small text
     title: The Section Title
     subtitle: The section subtitle
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >-
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
   - type: ContactSection
     variant: variant-b
     colors: colors-e
@@ -84,11 +93,12 @@ sections:
     height: auto
     alignHoriz: left
     title: Join our club
-    text: |-
-      We will notify you every time a shipment is heading to your neighborhood, and you could immediatly let us know if you want in or not.
+    text: >-
+      We will notify you every time a shipment is heading to your neighborhood,
+      and you could immediatly let us know if you want in or not.
     image:
       type: ImageBlock
-      url: "/images/lobster.jpg"
+      url: /images/lobster.jpg
       altText: Fisherman holding lobster
     form:
       type: FormBlock
@@ -120,12 +130,12 @@ sections:
           width: full
       submitLabel: Send Message
   - type: ExampleSection
-    title: "Our Partners"
+    title: Our Partners
     logos:
-      - name: 'Stackbit'
-        image: '/images/stackbit.svg'
-      - name: 'NextJs'
-        image: '/images/nextdotjs.svg'
-      - name: 'Tailwind'
-        image: '/images/tailwindcss.svg'
+      - name: Stackbit
+        image: /images/stackbit.svg
+      - name: NextJs
+        image: /images/nextdotjs.svg
+      - name: Tailwind
+        image: /images/tailwindcss.svg
 ---
