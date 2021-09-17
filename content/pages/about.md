@@ -74,7 +74,6 @@ sections:
     topGap: small
     bottomGap: small
     alignHoriz: left
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     text: >-
       ## Lorem ipsum
