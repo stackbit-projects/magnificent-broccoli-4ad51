@@ -39,4 +39,26 @@ sections:
       type: ImageBlock
     elementId: lorem-ipsum
     type: CtaSection
+  - colors: colors-a
+    width: wide
+    height: short
+    topGap: small
+    bottomGap: small
+    alignHoriz: left
+    badge: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    text: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    elementId: lorem-ipsum
+    type: ContentSection
 ---
