@@ -19,8 +19,9 @@ sections:
     alignHoriz: left
     badge: lorem-ipsum
     title: >-
-      lorem-ipsumAutomatic Database Management System Tuning Through Large-scale
-      Machine Learning
+      lorem-ipsumAutomatic Database Management System Tuning Through Automatic
+      Database Management System Tuning Through Large-scale Machine
+      Learning-scale Machine Learning
     text: >-
       ## Lorem ipsum
 
