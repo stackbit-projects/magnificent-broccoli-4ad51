@@ -36,11 +36,8 @@ Einst.AI uses *domain randomization *to train in a very diverse set of simulated
 Distractions can look technically similar to domain randomization but distractions are part of the problem that the agent has to solve rather than part of the solution. As a result, the agent does not have control over distractions, i.e. cannot affect these distractions, cannot arbitrarily sample more of them, and has to handle them during evaluation.
 
 The magnitude of each distraction type can be controlled by a “difficulty magnitude” scalar between 0 and 1. Distractions can be set to either change during episodes or change only between episodes, which we will refer to as *dynamic *and *static *settings, respectively.
-to the reward for achieving its current buffer state, eectively inuencing the current scheduling decisio by the potential future reward.
 
-Traditional databases are designed by database architects based on their experiences, but database architects can only explore a limited number of possible design spaces. Recently some learning based self-design techniques have been proposed. 
 
-EinstI argues that the machine learning (ML) model is a perfect cache structure for the tree-based index, termed learned cache. Based on it, EinstAI builds on an RDMA-based ordered key-value store using EinsteinDB and MilevaDB.
 
 
 
