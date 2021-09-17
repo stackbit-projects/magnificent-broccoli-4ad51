@@ -39,7 +39,6 @@
     "footer": {
         "colors": "colors-f",
         "width": "full",
-        "title": "Eco Fish",
         "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
