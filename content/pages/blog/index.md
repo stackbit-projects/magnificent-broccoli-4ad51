@@ -34,7 +34,7 @@ sections:
     actions:
       - label: get.einst.ai
         url: /
-        altText: lorem-ipsum
+        altText: get.einst.ai
         style: secondary
         icon: arrowRight
         elementId: lorem-ipsum
