@@ -12,7 +12,6 @@ sections:
     alignHoriz: left
     alignVert: middle
     badge:
-      label: lorem-ipsum
       elementId: lorem-ipsum
     title: >-
       A fully differentiable neural network with a ‘planning module’ embedded
