@@ -53,7 +53,6 @@ sections:
     bottomGap: none
     alignHoriz: left
     title: The Manifesto
-    subtitle: lorem-ipsum
     text: >-
       ## Lorem ipsum
 
