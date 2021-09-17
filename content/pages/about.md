@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
-layout: PostLayout
+layout: Advanced
 ---
 
 Einst.AI uses *domain randomization *to train in a very diverse set of simulated environments that enables transfer to the real world. Domain randomization is the extension of data augmentation, which has been used in computer vision since the inception of convolutional networks, from data sets to simulators. Randomizing many aspects of the simulation that do not match the real world forces the learned model to be robust to these variations.
