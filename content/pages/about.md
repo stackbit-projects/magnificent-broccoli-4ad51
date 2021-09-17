@@ -43,7 +43,7 @@ sections:
     height: short
     topGap: small
     bottomGap: small
-    alignHoriz: left
+    alignHoriz: center
     alignVert: middle
     badge: {}
     title: The Manifesto
