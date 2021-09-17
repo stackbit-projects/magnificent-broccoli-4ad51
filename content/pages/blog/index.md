@@ -36,7 +36,7 @@ sections:
         url: /
         altText: get.einst.ai
         style: secondary
-        icon: arrowRight
+        icon: twitter
         elementId: lorem-ipsum
         type: Button
     backgroundImage:
