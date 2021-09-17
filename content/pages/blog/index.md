@@ -2,6 +2,45 @@
 title: Blog
 layout: AdvancedLayout
 sections:
+  - variant: variant-a
+    colors: colors-a
+    elementId: lorem-ipsum
+    width: wide
+    height: short
+    topGap: small
+    bottomGap: small
+    alignHoriz: left
+    alignVert: middle
+    badge:
+      label: lorem-ipsum
+      elementId: lorem-ipsum
+    title: lorem-ipsum
+    text: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    feature:
+      idAttr: lorem-ipsum
+      action: lorem-ipsum
+      destination: lorem-ipsum
+      fields: []
+      submitLabel: lorem-ipsum
+      type: FormBlock
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      opacity: 0
+      elementId: lorem-ipsum
+      type: ImageBlock
+    type: HeroSection
   - variant: variant-b
     colors: colors-c
     width: full
@@ -73,43 +112,4 @@ sections:
       session over time.
     elementId: lorem-ipsum
     type: ContentSection
-  - variant: variant-a
-    colors: colors-a
-    elementId: lorem-ipsum
-    width: wide
-    height: short
-    topGap: small
-    bottomGap: small
-    alignHoriz: left
-    alignVert: middle
-    badge:
-      label: lorem-ipsum
-      elementId: lorem-ipsum
-    title: lorem-ipsum
-    text: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    feature:
-      idAttr: lorem-ipsum
-      action: lorem-ipsum
-      destination: lorem-ipsum
-      fields: []
-      submitLabel: lorem-ipsum
-      type: FormBlock
-    backgroundImage:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      opacity: 0
-      elementId: lorem-ipsum
-      type: ImageBlock
-    type: HeroSection
 ---
