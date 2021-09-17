@@ -50,7 +50,7 @@ sections:
     width: full
     height: short
     topGap: none
-    bottomGap: small
+    bottomGap: none
     alignHoriz: left
     badge: lorem-ipsum
     title: lorem-ipsum
