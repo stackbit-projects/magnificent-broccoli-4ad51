@@ -7,7 +7,7 @@ sections:
     elementId: lorem-ipsum
     width: full
     height: short
-    topGap: small
+    topGap: none
     bottomGap: small
     alignHoriz: left
     alignVert: middle
