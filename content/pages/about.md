@@ -31,13 +31,11 @@ seo:
       relativeUrl: true
 layout: PostLayout
 ---
-Language has evolved to communicate intent, to state objectives, or to describe complex situations. It conveys information compactly by relying on composition and highlighting salient facts with a grammar. With the advent of the Transformer, a model architecture eschewing recurrence and relying entirely on an attention mechanism to draw global dependencies between input and output.
+Einst.AI uses *domain randomization *to train in a very diverse set of simulated environments that enables transfer to the real world. Domain randomization is the extension of data augmentation, which has been used in computer vision since the inception of convolutional networks, from data sets to simulators. Randomizing many aspects of the simulation that do not match the real world forces the learned model to be robust to these variations.
 
-Music relies heavily on repetition to build structure and meaning. Self-reference occurs on multiple timescales, from motifs to phrases to reusing of entire sections of music, such as in pieces with ABA structure. The Transformer, a sequence model based on self-attention, While the original Transformer allows us to capture self-reference through attention, it relies on absolute timing signals and thus has a hard time keeping track of regularity that is based on relative distances, event orderings, and periodicity. 
+Distractions can look technically similar to domain randomization but distractions are part of the problem that the agent has to solve rather than part of the solution. As a result, the agent does not have control over distractions, i.e. cannot affect these distractions, cannot arbitrarily sample more of them, and has to handle them during evaluation.
 
-As the Transformer model relies solely on positional sinusoids to represent timing information, EinstAI introduces relative position representations to allow attention to be informed by how far two positions are apart in a sequence.
-
-EinstAI is a learned query scheduler that automatically learns how to order the execution of queries to minimize disk access requests. The core of  EinstAI includes a deep reinforcement learning (DRL) agent that learns:
+The magnitude of each distraction type can be controlled by a “difficulty magnitude” scalar between 0 and 1. Distractions can be set to either change during episodes or change only between episodes, which we will refer to as *dynamic *and *static *settings, respectively.
 
 *   a query scheduling policy through continuous interactions
 
