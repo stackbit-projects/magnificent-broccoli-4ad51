@@ -49,7 +49,7 @@ sections:
         altText: EinsteinDB
         style: secondary
         icon: arrowRight
-        elementId: lorem-ipsum
+        elementId: EinsteinDB
         type: Button
     feature:
       idAttr: lorem-ipsum
