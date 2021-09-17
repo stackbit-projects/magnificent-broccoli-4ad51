@@ -36,7 +36,7 @@ seo:
       relativeUrl: true
 layout: AdvancedLayout
 sections:
-  - colors: colors-i
+  - colors: colors-h
     width: full
     height: short
     topGap: none
