@@ -11,8 +11,7 @@ sections:
     bottomGap: none
     alignHoriz: left
     alignVert: middle
-    badge:
-      elementId: lorem-ipsum
+    badge: {}
     title: >-
       A fully differentiable neural network with a ‘planning module’ embedded
       within a generative transformer model for EinsteinDB
