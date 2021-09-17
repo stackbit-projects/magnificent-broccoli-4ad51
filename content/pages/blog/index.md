@@ -38,7 +38,7 @@ sections:
       recovery.
     actions:
       - label: GitHub
-        url: '#'
+        url: 'https://github.com/einstAI/einst.ai'
         altText: lorem-ipsum
         style: secondary
         icon: arrowRight
