@@ -10,7 +10,7 @@ sections:
       - content/pages/blog/as-fresh-as-it-gets.md
       - content/pages/blog/bi-weekly-subscription.md
       - content/pages/blog/sustainability-at-its-purest.md
-  - variant: variant-a
+  - variant: variant-b
     colors: colors-c
     width: full
     height: short
