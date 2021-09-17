@@ -8,7 +8,7 @@ sections:
     width: full
     height: short
     topGap: none
-    bottomGap: small
+    bottomGap: none
     alignHoriz: left
     alignVert: middle
     badge:
