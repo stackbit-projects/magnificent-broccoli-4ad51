@@ -51,7 +51,7 @@ sections:
   - type: FeaturedPostsSection
     variant: variant-a
     colors: colors-e
-    width: wide
+    width: full
     posts:
       - content/pages/blog/as-fresh-as-it-gets.md
       - content/pages/blog/bi-weekly-subscription.md
