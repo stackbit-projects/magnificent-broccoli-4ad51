@@ -42,7 +42,7 @@
         "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/logo.svg",
+            "url": "/images/logo-footer.svg",
             "altText": "Logo"
         },
         "text": "Imaginatiion is more important than Knowledge\n",
