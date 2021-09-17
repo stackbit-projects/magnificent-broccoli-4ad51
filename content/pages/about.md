@@ -48,7 +48,7 @@ sections:
     badge:
       label: lorem-ipsum
       elementId: lorem-ipsum
-    title: lorem-ipsum
+    title: The Manifesto
     text: >-
       ## Lorem ipsum
 
