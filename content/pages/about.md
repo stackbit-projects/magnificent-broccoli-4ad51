@@ -37,8 +37,3 @@ Distractions can look technically similar to domain randomization but distractio
 
 The magnitude of each distraction type can be controlled by a “difficulty magnitude” scalar between 0 and 1. Distractions can be set to either change during episodes or change only between episodes, which we will refer to as *dynamic *and *static *settings, respectively.
 
-
-
-
-
-EinstAI serves as a distributed hybrid architecture that retains a tree-based index at the server to perform dynamic workloads (e.g., inserts via AlterTables) and leverages a learned cache at the client to perform static workloads (e.g., gets and scans with MilevaDB). The key idea is to decouple ML model retraining from index updating by maintaining a layer of indirection from logical to actual positions of key-value pairs. It allows a stale learned cache to continue predicting a correct position for a lookup key.  Causets, the tuples EinsteinDB stores in Append-Logt and Binary format, ensures correctness using a validation mechanism with a fallback path and further uses speculative execution to minimize the cost of cache misses. Evaluations with YCSB benchmarks and production workloads show that a single EinstAI server can achieve over 80 million read-only requests per second. This number outperforms state-of-the-art RDMA-based ordered key-value store by up to 5.9× (from 3.7×). For workloads with inserts, EinsteinDB still provides up to 3.5× (from 2.7×) throughput speedup, achieving 53M reqs/s. The learned cache can also reduces client-side memory usage and further provides an efficient memory-performance tradeoff, e.g., saving 99% memory at the cost of 20% peak throughput.
