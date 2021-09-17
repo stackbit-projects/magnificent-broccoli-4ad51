@@ -17,7 +17,6 @@ sections:
     topGap: small
     bottomGap: small
     alignHoriz: left
-    badge: lorem-ipsum
     title: >-
       Automatic Database Management System Tuning Through Large-scale Machine
       Learningine Learning-scale Machine Learning
