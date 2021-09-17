@@ -37,7 +37,7 @@
         "secondaryLinks": []
     },
     "footer": {
-        "colors": "colors-h",
+        "colors": "colors-f",
         "width": "full",
         "isTitleVisible": true,
         "logo": {
