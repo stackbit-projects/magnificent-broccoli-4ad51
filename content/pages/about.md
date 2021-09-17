@@ -74,7 +74,6 @@ sections:
     topGap: small
     bottomGap: small
     alignHoriz: left
-    badge: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
     text: >-
