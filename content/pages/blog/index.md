@@ -37,7 +37,7 @@ sections:
       provides for the capabilities herein like fault tolerance and disaster
       recovery.
     actions:
-      - label: lorem-ipsum
+      - label: GitHub
         url: '#'
         altText: lorem-ipsum
         style: secondary
