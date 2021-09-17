@@ -20,17 +20,9 @@ sections:
     title: >-
       Automatic Database Management System Tuning Through Large-scale Machine
       Learningine Learning-scale Machine Learning
-    text: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    text: >
+      Exponentially classifying Relational inductive biases, deep learning
+      ethics and XAI, and graph network embeddings
     actions:
       - label: get.einst.ai
         url: /
