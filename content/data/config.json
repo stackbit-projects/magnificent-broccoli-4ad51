@@ -38,7 +38,7 @@
     },
     "footer": {
         "colors": "colors-f",
-        "width": "wide",
+        "width": "full",
         "title": "Eco Fish",
         "isTitleVisible": true,
         "logo": {
