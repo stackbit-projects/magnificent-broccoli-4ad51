@@ -44,8 +44,8 @@ sections:
     alignHoriz: center
     title: The Manifesto
     text: >
-      ### At Einst.AI, We're embracing the meta universe and consider ourselves
-      a meta-learning enterprise that is model-agnostic, in the sense that we're
+      # At Einst.AI, We're embracing the meta universe and consider ourselves a
+      meta-learning enterprise that is model-agnostic, in the sense that we're
       pretty compatible with any model trained with stochastic gradient descent
       and applicable to a variety of different learning problems, including
       classification, regression, and reinforcement learning.
