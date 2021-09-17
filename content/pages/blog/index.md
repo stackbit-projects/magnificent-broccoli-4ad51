@@ -2,7 +2,7 @@
 title: Blog
 layout: AdvancedLayout
 sections:
-  - variant: variant-a
+  - variant: variant-d
     colors: colors-a
     elementId: lorem-ipsum
     width: full
