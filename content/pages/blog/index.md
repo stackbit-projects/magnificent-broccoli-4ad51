@@ -38,7 +38,6 @@ sections:
     bottomGap: small
     alignHoriz: left
     badge: lorem-ipsum
-    subtitle: lorem-ipsum
     text: >-
       ## Lorem ipsum
 
