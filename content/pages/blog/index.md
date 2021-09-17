@@ -55,7 +55,14 @@ sections:
       idAttr: lorem-ipsum
       action: lorem-ipsum
       destination: lorem-ipsum
-      fields: []
+      fields:
+        - name: lorem-ipsum
+          label: lorem-ipsum
+          defaultValue: lorem-ipsum
+          options: []
+          isRequired: false
+          width: full
+          type: SelectFormControl
       submitLabel: lorem-ipsum
       type: FormBlock
     backgroundImage:
