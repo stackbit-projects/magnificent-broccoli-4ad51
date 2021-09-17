@@ -50,7 +50,7 @@ sections:
       and applicable to a variety of different learning problems, including
       classification, regression, and reinforcement learning.
     type: ContentSection
-  - colors: colors-f
+  - colors: colors-a
     width: full
     height: short
     topGap: none
