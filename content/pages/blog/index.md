@@ -37,7 +37,6 @@ sections:
     topGap: small
     bottomGap: small
     alignHoriz: left
-    badge: lorem-ipsum
     text: >
       Einst.ai allows EinsteinDB to learn from both internal and external
       “environments” to achieve high performance. Our representational
