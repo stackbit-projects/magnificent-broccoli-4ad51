@@ -35,7 +35,7 @@ sections:
     width: full
     height: short
     topGap: small
-    bottomGap: small
+    bottomGap: none
     alignHoriz: left
     text: >
       Einst.ai allows EinsteinDB to learn from both internal and external
