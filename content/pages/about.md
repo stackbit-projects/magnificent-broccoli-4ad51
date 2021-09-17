@@ -37,7 +37,7 @@ Distractions can look technically similar to domain randomization but distractio
 
 The magnitude of each distraction type can be controlled by a “difficulty magnitude” scalar between 0 and 1. Distractions can be set to either change during episodes or change only between episodes, which we will refer to as *dynamic *and *static *settings, respectively.
 
-### Transformer Models with IMAGINATION
+<h3>Transformer Models with IMAGINATION</h3>
 
 Different from such a database-dependent tree encoding, our zero-shot encoding uses a filtered stateless hash-tree-based encoding where features of nodes are database-independent (i.e., they can be derived from any database at hand). As a result, queries over different databases can be expressed as input to einst.ai. Domain randomization is the extension of data augmentation, which has been used in computer vision since the inception of convolutional networks [17], from data sets to simulators. Randomizing many aspects of the simulation that do not match the real world forces the learned model to be robust to these variations.
 
