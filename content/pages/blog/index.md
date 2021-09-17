@@ -15,7 +15,7 @@ sections:
     width: full
     height: short
     topGap: small
-    bottomGap: small
+    bottomGap: none
     alignHoriz: left
     title: >-
       Automatic Database Management System Tuning Through Large-scale Machine
