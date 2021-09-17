@@ -52,7 +52,6 @@ sections:
     topGap: none
     bottomGap: none
     alignHoriz: left
-    badge: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
     text: >-
