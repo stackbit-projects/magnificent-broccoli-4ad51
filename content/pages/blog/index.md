@@ -14,7 +14,7 @@ sections:
     colors: colors-c
     width: full
     height: short
-    topGap: small
+    topGap: none
     bottomGap: none
     alignHoriz: left
     title: >-
