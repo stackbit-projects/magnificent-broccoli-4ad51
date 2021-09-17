@@ -1,6 +1,5 @@
 ---
 title: About Us
-layout: 
 subtitle: "EinstAI is an AI4DB Stochastic Context Free Grammar transmuting Transformer Regression Metadata collected with EinsteinDB's \_Timeshare Coordinator, FIDel, a deterministic oracle. Our Platform works great with Docker, Kubernetes, Ansible, and Natively. EinstAI provides 60% improvement of TPC SOTA benchmarks with zero-shot learning key-value stores in under 8 ms approx 300M Files-at-training. \_EinstAI provides a domain mixing contextual-switch with pushdown-serverless, leaderless, and globally available ANN-infrastructure built with distributed computing and chaos in mind. Runs on Kubernetes, CentOS7, Linux and BSD Kernels."
 image: /images/Transparent.png
 image_alt: Team members in a conference room
