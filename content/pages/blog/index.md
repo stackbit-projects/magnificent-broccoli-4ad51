@@ -31,7 +31,14 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        altText: lorem-ipsum
+        style: secondary
+        icon: arrowRight
+        elementId: lorem-ipsum
+        type: Button
     backgroundImage:
       altText: lorem-ipsum
       caption: lorem-ipsum
