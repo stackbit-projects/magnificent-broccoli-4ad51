@@ -69,7 +69,7 @@ sections:
       type: ImageBlock
     type: HeroSection
   - colors: colors-a
-    width: wide
+    width: full
     height: short
     topGap: small
     bottomGap: small
