@@ -35,7 +35,7 @@ sections:
   - type: TestimonialsSection
     variant: variant-a
     colors: colors-c
-    width: wide
+    width: full
     height: auto
     alignHoriz: left
     testimonials:
