@@ -51,7 +51,7 @@ sections:
     height: short
     topGap: none
     bottomGap: none
-    alignHoriz: right
+    alignHoriz: center
     title: The Manifesto
     text: >
       ### At Einst.AI, We're embracing the meta universe and consider ourselves
