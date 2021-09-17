@@ -88,4 +88,5 @@ sections:
       - dolor sit amet
     elementId: lorem-ipsum
     type: ContentSection
+    title: The Manifesto
 ---
