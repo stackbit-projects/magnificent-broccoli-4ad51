@@ -40,7 +40,7 @@ sections:
     width: full
     height: short
     topGap: none
-    bottomGap: small
+    bottomGap: none
     alignHoriz: center
     subtitle: >-
       At Einst.AI, We're embracing the meta universe and consider ourselves a
